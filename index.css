@@ -7,6 +7,10 @@ body {
     text-align: center;
 }
 
+main {
+    margin: 200px auto;
+}
+
 h1 {
     color: goldenrod;
 }
@@ -26,4 +30,18 @@ button {
     border-radius: 2px;
     margin-bottom: 2px;
     margin-top: 2px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    position: absolute;
+    width: 50%;
+    margin: 0 25%;
+    bottom: 10px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
 }
